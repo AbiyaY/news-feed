@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  color: black;
+  background-color: crimson;
+
+}
+
+
+.Navbar {
+  background-color: blue;
+  text-align: center;
+}
+
+.Text {
+
+  color: aqua;
+  font-size: medium;
+  text-align: center;
+  font-size: xx-large;
+  justify-content: center;
+}
+
+.card {
+  justify-content: center;
+  padding: 10px;
+  text-align: center;
+  font-size: large;
+  background-color: darkkhaki;
+}
+
+.img {
+
+  align-items: center;
+
+}
+
+.head {
+  text-decoration: aqua;
+
+}
